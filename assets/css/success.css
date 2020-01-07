@@ -1,0 +1,15 @@
+
+h1 {
+	text-align: center;
+}
+i {
+	font-size: 120px;
+	color: green;
+}
+p {
+	font-size: xx-large;
+	font-weight: bolder;
+}
+hr:first-of-type {
+	margin-top: 12rem;
+}

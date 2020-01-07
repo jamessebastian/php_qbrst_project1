@@ -1,0 +1,32 @@
+
+h3 {
+	font-weight: 600;
+	text-align: center;
+	font-size: 40px;
+}
+
+.w-initial {
+	width: initial;
+}
+
+form > div {
+	padding: 10px;
+}
+
+.pointer{
+	cursor: pointer;
+}
+
+.red{
+	color: red;
+}
+
+img {
+	width: 100%;
+}
+
+#fileConstraints {
+	font-weight: 300;
+	/*color: gray;*/
+	font-size: 13px;
+}

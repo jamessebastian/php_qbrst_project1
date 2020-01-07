@@ -1,0 +1,14 @@
+#loaderDiv {
+    z-index: 9;
+    position: absolute;
+    background: transparent;
+	height: 100%;
+	width: 100%;
+
+}
+
+#loader {
+	margin-top: 40vh;
+	height: 90px;
+	width: 90px;
+}

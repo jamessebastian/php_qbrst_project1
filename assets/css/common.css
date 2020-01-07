@@ -1,0 +1,36 @@
+body {
+	/*background-image: linear-gradient(to left, lightblue, white);*/
+
+/*	background: #2193b0; 
+	background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);  
+	background: linear-gradient(to right, #6dd5ed, #2193b0); 
+	
+*/
+/*	background: #076585; 
+	background: -webkit-linear-gradient(to right, #fff, #076585); 
+	background: linear-gradient(to right, #fff, #076585); 
+	*/
+/*
+	background: #a8ff78;  
+	background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78);
+	background: linear-gradient(to right, #78ffd6, #a8ff78); 
+	*/
+
+/*	this was the default
+background: #2980B9; 
+	background: -webkit-linear-gradient(to left, #FFFFFF, #6DD5FA, #2980B9);  
+	background: linear-gradient(to left, #FFFFFF, #6DD5FA, #2980B9); 
+*/
+
+background: #2193b0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	font-weight: 600;
+}
+
+.navbar-brand {
+	font-size: 50px;
+	font-weight: 600;
+	text-align: center;
+}

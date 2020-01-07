@@ -1,0 +1,11 @@
+table a {
+	color: white;
+}
+
+td a {
+	color: #1689db;
+}
+
+.minHeight {
+	min-height: 500px;
+}
